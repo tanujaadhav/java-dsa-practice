@@ -13,6 +13,7 @@ Beginner data structures and algorithms problems solved in Java, written while p
 | Palin.java | Checks whether a string is a palindrome |
 | Vowels.java | Counts the vowels in a word |
 | SecondLargest.java | Finds the second largest number in an array |
+| Duplicates.java | Finds repeated numbers in an array using a HashSet |
 
 ## How to run
 
