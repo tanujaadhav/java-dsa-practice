@@ -14,6 +14,7 @@ Beginner data structures and algorithms problems solved in Java, written while p
 | Vowels.java | Counts the vowels in a word |
 | SecondLargest.java | Finds the second largest number in an array |
 | Duplicates.java | Finds repeated numbers in an array using a HashSet |
+| CountEach.java | Counts how many times each number appears using a HashMap |
 
 ## How to run
 
