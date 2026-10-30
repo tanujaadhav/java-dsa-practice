@@ -15,6 +15,7 @@ Beginner data structures and algorithms problems solved in Java, written while p
 | SecondLargest.java | Finds the second largest number in an array |
 | Duplicates.java | Finds repeated numbers in an array using a HashSet |
 | CountEach.java | Counts how many times each number appears using a HashMap |
+| TwoSum.java | Finds two numbers in an array that add up to a target | Two nested loops, O(n²). HashMap version coming next |
 
 ## How to run
 
