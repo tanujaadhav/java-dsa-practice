@@ -17,7 +17,7 @@ Beginner data structures and algorithms problems solved in Java, written while p
 | CountEach.java | Counts how many times each number appears using a HashMap |
 | TwoSum.java | Finds two numbers in an array that add up to a target | Two nested loops, O(n²). HashMap version coming next |
 | TwoSumMap.java | Finds two numbers that add up to a target | HashMap, one loop, O(n) |
-
+| MissingNumber.java | Finds the one missing number from 1 to n | Sum formula n(n+1)/2, O(n) |
 ## How to run
 
 1. Install Java (JDK 17 or later).
