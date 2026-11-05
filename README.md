@@ -19,6 +19,7 @@ Beginner data structures and algorithms problems solved in Java, written while p
 | TwoSumMap.java | Finds two numbers that add up to a target | HashMap, one loop, O(n) |
 | MissingNumber.java | Finds the one missing number from 1 to n | Sum formula n(n+1)/2, O(n) |
 | MissingNumbers.java | Finds all missing numbers between the smallest and largest in an array | HashSet, min/max, O(n + range) |
+| TwoSumSorted.java | Finds pairs that add up to a target in a sorted array | Two pointers, O(n) |
 ## How to run
 
 1. Install Java (JDK 17 or later).
